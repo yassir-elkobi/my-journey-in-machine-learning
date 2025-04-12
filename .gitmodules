@@ -1,0 +1,3 @@
+[submodule "supervised-learning/linear-regression"]
+	path = supervised-learning/linear-regression
+	url = https://github.com/yassir-elkobi/linear-regression.git
