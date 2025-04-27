@@ -1,3 +1,6 @@
-[submodule "supervised-learning/linear-regression"]
-	path = supervised-learning/linear-regression
-	url = https://github.com/yassir-elkobi/linear-regression.git
+[submodule "supervised-learning/car-price-linear"]
+	path = supervised-learning/car-price-linear
+	url = https://github.com/yassir-elkobi/car-price-linear
+[submodule "supervised-learning/titanic-logistic"]
+	path = supervised-learning/titanic-logistic
+	url = https://github.com/yassir-elkobi/titanic-logistic
